@@ -8,6 +8,7 @@ await driver.findElement(By.name("hola").sendKeys("Selenium" ,Key.RETURN));
 }
 
 ejemplo();
+//hola
 
 //node index
 
